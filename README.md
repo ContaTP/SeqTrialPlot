@@ -1,8 +1,8 @@
 # SeqTrialPlot
-R code for dynamically updating and plotting curves from sequential trial
+R code snippets for dynamically updating and plotting curves of data from group sequential trial
 
 
-This code relies on ImageMagic and R package 'Animation'
+Dependencies: ImageMagic and R package 'Animation'
 
 
 The dynamic plot is very useful to see the trend of the trial results
